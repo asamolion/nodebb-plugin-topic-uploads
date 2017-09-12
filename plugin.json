@@ -1,0 +1,11 @@
+{
+    "url": "https://github.com/asamolion/nodebb-plugin-topic-uploads",
+    "library": "./library.js",
+    "hooks": [
+        { "hook": "static:app.load", "method": "load" }        
+    ],
+    "staticDirs": {
+        "public": "public"
+    },
+    "templates": "./public/templates/"
+}
