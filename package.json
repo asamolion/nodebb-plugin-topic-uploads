@@ -1,0 +1,23 @@
+{
+  "name": "nodebb-plugin-topic-uploads",
+  "version": "0.0.2",
+  "description": "test plugin",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asamolion/nodebb-plugin-topic-uploads.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugins"
+  ],
+  "author": "Muhammad Osama Arshad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asamolion/nodebb-plugin-topic-uploads/issues"
+  },
+  "homepage": "https://github.com/asamolion/nodebb-plugin-topic-uploads#readme"
+}

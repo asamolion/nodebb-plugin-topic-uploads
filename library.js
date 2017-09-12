@@ -10,12 +10,11 @@ Plugin.load = function (params, callback) {
     console.log(req);
 
 
-    router.get('/yourpage', render);
-    router.get('/api/yourpage', render);
-
-
     callback();
   }
+
+  router.get('/yourpage', render);
+  router.get('/api/yourpage', render);
 };
 
 module.exports = Plugin;
