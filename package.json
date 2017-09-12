@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/asamolion/nodebb-plugin-topic-uploads/issues"
   },
-  "homepage": "https://github.com/asamolion/nodebb-plugin-topic-uploads#readme"
+  "homepage": "https://github.com/asamolion/nodebb-plugin-topic-uploads#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "nconf": "^0.8.4"
+  }
 }
